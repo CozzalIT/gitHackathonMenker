@@ -114,6 +114,23 @@
                             <div class="tab-content">
                                 <div class="tab-pane active" id="aktivitas" role="tabpanel">
                                     <div class="card-block">
+                                      <form class="form-horizontal form-material mrgn-event">
+                                          <div class="form-group" style="margin-bottom: 10px;">
+                                              <h4 class="col-md-12">Buat Aktivitas Baru</h4>
+                                              <div class="col-md-12" style="background:white;">
+                                                  <textarea rows="5" class="form-control form-control-line" style="padding-top: 10px;padding-left: 0px;"></textarea>
+                                              </div>
+                                              <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-camera"></i> Sisipkan gambar</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-paperclip"></i> Sisipkan file</a> </div>
+                                          </div>
+                                          <div class="form-group">
+                                              <div class="col-sm-10">
+                                              </div>
+                                              <div class="col-sm-2">
+                                                  <button class="btn btn-success">Bagikan</button>
+                                              </div>
+                                          </div>
+                                      </form>
+                                      <hr>
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
                                               <div> <a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
@@ -147,7 +164,7 @@
                                     </div>
                                 </div>
                                 <!--second tab-->
-                                <div class="tab-pane active" id="info" role="tabpanel">
+                                <div class="tab-pane" id="info" role="tabpanel">
                                     <div class="card-block">
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
@@ -181,7 +198,7 @@
                                       </div>
                                     </div>
                                 </div>
-                                <div class="tab-pane active" id="acara" role="tabpanel">
+                                <div class="tab-pane" id="acara" role="tabpanel">
                                     <div class="card-block">
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
