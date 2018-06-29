@@ -24,23 +24,23 @@
     <a href="#home" class="scrolltotop"><i class="fa fa-long-arrow-up"></i></a>
 
     <!--START TOP AREA-->
-    <header class="top-area" id="home">
+    <header class="" id="home">
         <div class="header-top-area">
             <!--MAINMENU AREA-->
             <?php
-              require('../../../template/navbar.php');
+              require('../../../template/navbar-modules.php');
             ?>
             <!--END MAINMENU AREA END-->
         </div>
         <?php
-          require('../../../template/welcome.php');
+          //require('../../../template/welcome.php');
         ?>
     </header>
     <!--END TOP AREA-->
 
     <!--FEATURES TOP AREA-->
     <section class="features-top-area padding-100-50" id="features">
-        <div class="container">
+        <div class="container top-container">
             <div class="row">
                 <div class="col-md-8 col-lg-6 col-md-offset-2 col-lg-offset-3 col-sm-12 col-xs-12">
                     <div class="area-title text-center wow fadeIn">
