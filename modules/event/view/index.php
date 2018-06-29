@@ -47,72 +47,79 @@
                     <div class="area-title text-center wow fadeIn">
                         <h2>Ikut serta untuk <span>dapatkan poin</span></h2>
                         <span class="icon-and-border"><i class="material-icons">phone_android</i></span>
-                        <p>Rapidiously monetize state of the art ROI rather than quality. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim neque aliquid.</p>
+                        <p>Dapatkan poin untuk meningkatkan rangking mu. Ini akan membantu
+                        orang menemukan datamu.</p>
                     </div>
                 </div>
             </div>
+
+
             <div class="row">
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="qs-box relative mb50 center wow fadeInUp" data-wow-delay="0.2s">
                         <div class="qs-box-icon">
-                            <img src="../../../assets/img/users/1.jpg" alt="user" style="width:250px"/>
+                            <img src="../../../assets/img/event/1.png" alt="user" style="width:250px; height: 250px;"/>
                         </div>
-                        <h3>Konten Kreator Gatering</h3>
-                        <p>Lorem Ipsum is a simply dummy texts of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
-                        <a href="#" class="read-more">Berpartisipasi</a>
+                        <h3>Bekraf Developer Day 2018 - Surabaya </h3>
+                        <p>Praktisi aplikasi dan game akan berkumpul di Surabaya - memberikan bimbingan kepada developer untuk kemandirian bangsa.</p>
+                        <a href="detail.php" class="read-more">Baca Selengkapya</a>
                     </div>
                 </div>
+
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="qs-box relative mb50 center  wow fadeInUp" data-wow-delay="0.3s">
                         <div class="qs-box-icon">
-                            <img src="../../../assets/img/users/2.jpg" alt="user" style="width:250px"/>
+                            <img src="../../../assets/img/event/2.png" alt="user" style="width:250px; height: 250px;"/>
                         </div>
-                        <h3>Chat with love</h3>
-                        <p>Lorem Ipsum is a simply dummy texts of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
-                        <a href="#" class="read-more">Berpartisipasi</a>
+                        <h3>Sinar Mas Land Young Arch . . .</h3>
+                        <p>Memberikan kesempatan untuk berpartisipasi dalam merencanakan konsep desain yang sejalan dengan visi dan misi Sinar Mas Land sebagai . . .</p>
+                        <a href="detail.php" class="read-more">Baca Selengkapya</a>
                     </div>
                 </div>
+
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                     <div class="qs-box relative mb50 center  wow fadeInUp" data-wow-delay="0.4s">
                         <div class="qs-box-icon">
-                            <img src="../../../assets/img/users/3.jpg" alt="user" style="width:250px"/>
+                            <img src="../../../assets/img/event/3.jpg" alt="user" style="width:250px; height: 250px;"/>
                         </div>
-                        <h3>3d Display</h3>
-                        <p>Lorem Ipsum is a simply dummy texts of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
-                        <a href="#" class="read-more">Berpartisipasi</a>
+                        <h3>Pelatihan Kuliner, `Wah . . .</h3>
+                        <p>Suku Dinas Perindustrian dan Energi (PE) Jakarta Barat menggembleng puluhan ibu-ibu rumah tangga untuk membuat roti.</p>
+                        <a href="detail.php" class="read-more">Baca Selengkapya</a>
                     </div>
                 </div>
             </div>
+
             <hr>
+
             <div class="row">
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="qs-box relative mb50 center wow fadeInUp" data-wow-delay="0.2s">
                         <div class="qs-box-icon">
-                            <img src="../../../assets/img/users/4.jpg" alt="user" style="width:250px"/>
+                            <img src="../../../assets/img/event/4.jpg" alt="user" style="width:250px; height: 250px;"/>
                         </div>
-                        <h3>Pelatihan Video Editing</h3>
-                        <p>Lorem Ipsum is a simply dummy texts of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
-                        <a href="#" class="read-more">Berpartisipasi</a>
+                        <h3>GDG Prime 2015 : Con . . .</h3>
+                        <p>GDG adalah sebuah event yang bertujuan untuk menghubungkan mahasiswa,developer game, investor, publisher dan media dalam sebuah platform untuk saling . . .</p>
+                        <a href="detail.php" class="read-more">Baca Selengkapya</a>
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="qs-box relative mb50 center  wow fadeInUp" data-wow-delay="0.3s">
                         <div class="qs-box-icon">
-                            <img src="../../../assets/img/users/5.jpg" alt="user" style="width:250px"/>
+                            <img src="../../../assets/img/event/5.jpg" alt="user" style="width:250px; height: 250px;"/>
                         </div>
-                        <h3>Chat with love</h3>
-                        <p>Lorem Ipsum is a simply dummy texts of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
-                        <a href="#" class="read-more">Berpartisipasi</a>
+                        <h3>Intel NDK Education Roadshow . . .</h3>
+                        <p>Dicoding & Intel akan hadir di Yogyakarta untuk berbagi mengenai penggunaan Intel NDK pada Android Education Apps & Games.</p>
+                        <a href="detail.php" class="read-more">Baca Selengkapya</a>
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                     <div class="qs-box relative mb50 center  wow fadeInUp" data-wow-delay="0.4s">
                         <div class="qs-box-icon">
-                            <img src="../../../assets/img/users/6.jpg" alt="user" style="width:250px"/>
+                            <img src="../../../assets/img/event/6.png" alt="user" style="width:250px; height: 250px;"/>
                         </div>
-                        <h3>3d Display</h3>
-                        <p>Lorem Ipsum is a simply dummy texts of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
-                        <a href="#" class="read-more">Berpartisipasi</a>
+                        <h3>Bengkel GameLan Desember #3</h3>
+                        <p>Bengkel GameLan adalah event mingguan dari komunitas game developer Jogja (GameLan).</p>
+                        <a href="detail.php" class="read-more">Baca Selengkapya</a>
                     </div>
                 </div>
             </div>

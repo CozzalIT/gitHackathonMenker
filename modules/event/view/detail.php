@@ -7,7 +7,7 @@
 <!--<![endif]-->
 <?php
   require('../../../template/head.php');
-  $thisPage = 'detailAcara';
+  $thisPage = 'Acara';
 ?>
 
 <body class="home-one" data-spy="scroll" data-target=".mainmenu-area" data-offset="90">
@@ -46,9 +46,9 @@
             <div class="row">
                 <div class="col-md-8 col-lg-6 col-sm-12 col-xs-12">
                     <div class="area-title wow fadeIn">
-                        <h2>Judul atau tema <span>Acara</span></h2>
+                        <h2>Bekraf Developer Day 2018 - Surabaya</h2>
                         <span class="icon-and-border"><i class="material-icons">phone_android</i></span>
-                        <p>Rapidiously monetize state of the art ROI rather than quality. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim neque aliquid.</p>
+                        <p>Praktisi aplikasi dan game akan berkumpul di Surabaya - memberikan bimbingan kepada developer untuk kemandirian bangsa.</p>
                     </div>
                 </div>
             </div>
@@ -95,7 +95,7 @@
                                     <i class="fa fa-asterisk"></i>
                                 </div>
                                 <h3>Sub Sektor</h3>
-                                <p>Arsitektur</p>
+                                <p>Aplikasi dan Game</p>
                               </center>
                             </div>
                         </div>
@@ -121,16 +121,16 @@
                                       <div class="row">
                                           <div class="col-md-3 col-xs-6 b-r"> <strong>Pemateri</strong>
                                               <br>
-                                              <p class="text-muted">- Johnathan Deo <br> - Dibuka Pendaftaran</p>
+                                              <p class="text-muted">- Johnathan Deo <br>
                                               <p class="text-muted"></p>
                                           </div>
                                           <div class="col-md-3 col-xs-6 b-r"> <strong>Lokasi</strong>
                                               <br>
-                                              <p class="text-muted">JAKARTA SELATAN</p>
+                                              <p class="text-muted">Surabaya</p>
                                           </div>
                                           <div class="col-md-3 col-xs-6 b-r"> <strong>HTM</strong>
                                               <br>
-                                              <p class="text-muted">175.000 IDR</p>
+                                              <p class="text-muted">Gratis</p>
                                           </div>
                                           <div class="col-md-3 col-xs-6"> <strong></strong>
                                               <br>
@@ -138,9 +138,33 @@
                                           </div>
                                       </div>
                                       <hr>
-                                      <p class="m-t-30">Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
-                                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries </p>
-                                      <p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                      <p class="m-t-30">Badan Ekonomi Kreatif (BEKRAF) akan memberikan beasiswa kelas Dicoding Academy Belajar Membuat Aplikasi Android untuk Pemula atau Belajar Membuat Game untuk Pemula secara gratis. Untuk anda yang berminat untuk mendapatkan beasiswa tersebut, silakan melakukan tahapan berikut :
+                                      <ul>
+                                      <li>Mengisi form pendaftaran di link berikut : http://bit.ly/pendaftaranbeasiswabddsurabaya2018</li>
+                                       <li>Mencetak dan mengisi surat  permohonan yang dikumpulkan pada saat registrasi di BDD Surabaya.<li> <li>Format surat permohonan dapat di download di link : http://bit.ly/beasiswabddsurabaya2018</li> 
+                                      </ul>
+                                        Jika memiliki pertanyaan, silakan email ke bdd@dicoding.com
+                                        </p>
+                                        <p class="m-t-30">
+Acara bersifat GRATIS dan dimulai pukul 07.30 - 18.00 WIB. Akomodasi dan Transportasi ditanggung mandiri oleh masing-masing peserta
+
+<br>Susunan Acara <br>
+<ol type="1">
+<li>    Registrasi ulang (07.30 - 08.00) </li>
+<li>    General Session (08.00 - 12.00) </li>
+<li>     Ishoma (12.00 - 12.30) </li>
+<li>     Paralel (12.30 - 15.00)</li>
+<li>    Ishoma (15.00 - 15.30) </li>
+<li>    Paralel lanjutan (15.30 - 18.00) </li>
+<li>    Pembagian Merchandise (18.00 - selesai) </li>
+</ol> <br>
+
+Apabila anda memiliki portfolio Aplikasi Mobile (Android, iOS, Tizen, Windows), Web, Desktop, ataupun IoT, dapatkan kesempatan untuk pameran hasil karya anda dengan mengikuti Challenge Made in Surabaya -  https://www.dicoding.com/challenges/401 hingga 25 Juni 2018.
+
+
+Terdapat pendaftaran dan konsultasi Hak Kekayaan Intelektual dari Deputi HKI BEKRAF untuk karya kreatif. Silakan kunjungi booth BEKRAF pada hari pelaksanaan acara untuk mendapatkan informasinya.
+
+                                      </p>
                                   </div>
                               </div>
                               <div class="tab-pane" id="Dokumentasi" role="tabpanel">
@@ -189,9 +213,7 @@
                               </div>
                           </div>
                           <div class="row">
-                            <label class="col-sm-12">Klik untuk mendaftar</label>
-                            <button class="btn btn-success btn-event col-sm-1">Peserta</button>
-                            <button class="btn btn-info btn-event col-sm-1">Pemateri</button>
+                            <button class="btn btn-success btn-event col-sm-1">Ikuti Acara</button>
                           </div>
                       </div>
                   </div>
