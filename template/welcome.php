@@ -33,9 +33,9 @@
                               </div>
                           </div>
                           <div class="form-group">
-                              <button class="btn btn-primary" type="submit" style="background:black; width: 100%">Daftar Baru</button> 
+                              <button class="btn btn-primary" type="submit" style="background:black; width: 100%">Daftar Baru</button>
                               <center><p> --- Atau --- </p></center>
-                               <button type="reset" id="to_login" class="btn btn-primary" style="background:gray; width: 100%">Sudah Daftar</button>                            
+                               <button type="reset" id="to_login" class="btn btn-primary" style="background:gray; width: 100%">Sudah Daftar</button>
                           </div>
                       </form>
 
@@ -52,9 +52,9 @@
                               </div>
                           </div>
                           <div class="form-group">
-                              <button class="btn btn-primary" type="submit" style="background:green; width: 100%">Masuk</button> 
+                              <button class="btn btn-primary" type="submit" style="background:#1e88e5; width: 100%">Masuk</button>
                               <hr>
-                               <button type="reset" id="to_daftar" class="btn btn-primary" style="background:red; width: 100%">Kembali</a>                             
+                               <button type="reset" id="to_daftar" class="btn btn-primary" style="background:#eaf9ff; width: 100%; color:black;">Kembali</a>
                           </div>
                       </form>
 

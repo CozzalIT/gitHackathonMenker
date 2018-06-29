@@ -134,6 +134,7 @@
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
                                               <div> <a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
+                                                  <div class="user-img col"> <img src="../../../assets/img/users/4.jpg" alt="user" style="width:150px"> <span class="profile-status offline pull-right"></span> </div>
                                                   <div class="m-t-20 row">
                                                       <div class="col-md-9 col-xs-12">
                                                           <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. </p> </div>

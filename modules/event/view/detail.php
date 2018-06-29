@@ -141,7 +141,7 @@
                                       <p class="m-t-30">Badan Ekonomi Kreatif (BEKRAF) akan memberikan beasiswa kelas Dicoding Academy Belajar Membuat Aplikasi Android untuk Pemula atau Belajar Membuat Game untuk Pemula secara gratis. Untuk anda yang berminat untuk mendapatkan beasiswa tersebut, silakan melakukan tahapan berikut :
                                       <ul>
                                       <li>Mengisi form pendaftaran di link berikut : http://bit.ly/pendaftaranbeasiswabddsurabaya2018</li>
-                                       <li>Mencetak dan mengisi surat  permohonan yang dikumpulkan pada saat registrasi di BDD Surabaya.<li> <li>Format surat permohonan dapat di download di link : http://bit.ly/beasiswabddsurabaya2018</li> 
+                                       <li>Mencetak dan mengisi surat  permohonan yang dikumpulkan pada saat registrasi di BDD Surabaya.<li> <li>Format surat permohonan dapat di download di link : http://bit.ly/beasiswabddsurabaya2018</li>
                                       </ul>
                                         Jika memiliki pertanyaan, silakan email ke bdd@dicoding.com
                                         </p>
@@ -179,6 +179,22 @@ Terdapat pendaftaran dan konsultasi Hak Kekayaan Intelektual dari Deputi HKI BEK
                               </div>
                               <div class="tab-pane" id="Diskusi" role="tabpanel">
                                   <div class="card-block">
+                                    <form class="form-horizontal form-material mrgn-event">
+                                        <div class="form-group" style="margin-bottom: 10px;">
+                                            <h4 class="col-md-12">Bergabung dalam diskusi</h4>
+                                            <div class="col-md-12" style="background:white;">
+                                                <textarea rows="5" class="form-control form-control-line" style="padding-top: 10px;padding-left: 0px;"></textarea>
+                                            </div>
+                                            <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-camera"></i> Sisipkan gambar</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-paperclip"></i> Sisipkan file</a> </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="col-sm-10">
+                                            </div>
+                                            <div class="col-sm-2">
+                                                <button class="btn btn-success">Bagikan</button>
+                                            </div>
+                                        </div>
+                                    </form>
                                     <div class="sl-item mrgn-event">
                                         <div class="sl-right">
                                             <div> <a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>

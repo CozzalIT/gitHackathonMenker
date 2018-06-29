@@ -49,6 +49,24 @@
                         <!-- Column -->
                         <div class="card card-bg">
                             <div class="card-block bg-info pad-bot-card">
+                                <h4 class="text-white card-title">Poin Terkumpul</h4>
+                                <h6 class="card-subtitle text-white m-b-0 op-5">caption</h6>
+                            </div>
+                            <div class="card-block">
+                                <div class="message-box contact-box">
+                                    <div class="message-widget contact-widget">
+                                        <!-- Message -->
+                                        <!-- Message -->
+                                        <a href="#">
+                                            <div class="mail-contnet">
+                                                <h5>1,587 Poin</h5> <span class="mail-desc">GARUDA EMAS</span></div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card card-bg">
+                            <div class="card-block bg-info pad-bot-card">
                                 <h4 class="text-white card-title">Prestasi dan Pencapaian</h4>
                                 <h6 class="card-subtitle text-white m-b-0 op-5">caption</h6>
                             </div>
