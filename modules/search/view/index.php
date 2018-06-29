@@ -28,6 +28,7 @@
         <div class="header-top-area">
             <!--MAINMENU AREA-->
             <?php
+              $thisPage = "Cari Relasi";
               require('../../../template/navbar-modules.php');
             ?>
             <!--END MAINMENU AREA END-->
