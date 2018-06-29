@@ -7,7 +7,7 @@
 <!--<![endif]-->
 <?php
   require('../../../template/head.php');
-  $thisPage = 'acara';
+  $thisPage = 'Acara';
 ?>
 
 <body class="home-one" data-spy="scroll" data-target=".mainmenu-area" data-offset="90">

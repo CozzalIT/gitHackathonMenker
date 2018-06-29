@@ -7,7 +7,7 @@
     <meta name="keywords" content="App, Landing, Business, Onepage, Html, Business" />
 
     <!--====== TITLE TAG ======-->
-    <title>Massive Html5 App Landing Template</title>
+    <title>Engke Lah APp</title>
 
     <!--====== FAVICON ICON =======-->
     <link rel="shortcut icon" type="image/ico" href="../../../assets/img/favicon.png" />

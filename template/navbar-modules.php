@@ -7,10 +7,10 @@
             </div>
             <div id="main-nav" class="stellarnav">
                 <ul id="nav" class="nav">
-                    <li class="active"><a href="../../beranda/view/">Beranda</a></li>
-                    <li><a href="#pesam">Pesan</a></li>
-                    <li><a href="../../search/view">Cari Relasi</a></li>
-                    <li><a href="../../event/view">Acara</a></li>
+                    <li <?php if ($thisPage=="Beranda") echo "class='active'";?>><a href="../../beranda/view/">Beranda</a></li>
+                    <li <?php if ($thisPage=="Pesan") echo "class='active'";?>><a href="../../message/view">Pesan</a></li>
+                    <li <?php if ($thisPage=="Cari Relasi") echo "class='active'";?>><a href="../../search/view">Cari Relasi</a></li>
+                    <li <?php if ($thisPage=="Acara") echo "class='active'";?>><a href="../../event/view">Acara</a></li>
                 </ul>
             </div>
         </div>
