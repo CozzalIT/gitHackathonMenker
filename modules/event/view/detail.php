@@ -218,6 +218,7 @@ Terdapat pendaftaran dan konsultasi Hak Kekayaan Intelektual dari Deputi HKI BEK
                                     <hr>
                                   </div>
                               </div>
+                              <button style="width: 200px;" class="btn btn-success btn-event col-sm-1">Ajukan Pertanyaan</button>
                           </div>
                           <div class="row">
                             <button class="btn btn-success btn-event col-sm-1">Ikuti Acara</button>

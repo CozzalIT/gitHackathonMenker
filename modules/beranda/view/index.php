@@ -50,52 +50,50 @@
                             <img class="card-img-top" src="../../../assets/img/background/profile-bg.jpg" alt="Card image cap">
                             <div class="card-block little-profile text-center">
                                 <div class="pro-img"><img src="../../../assets/img/users/profile.jpg" alt="user" /></div>
-                                <h3 class="m-b-0">Angela Dominic</h3>
-                                <p>Web Designer &amp; Developer</p>
-                                <a href="javascript:void(0)" class="m-t-10 waves-effect waves-dark btn btn-primary btn-md btn-rounded">Follow</a>
+                                <h3 class="m-b-0">Farhan Hanif A</h3>
+                                <p>Desain Komunikasi Visual</p>
+                                <a href="../../user/view" class="m-t-10 waves-effect waves-dark btn btn-primary btn-md btn-rounded">Kelola Profile</a>
                                 <div class="row text-center m-t-20 pad-bot-card">
                                     <div class="col-lg-4 col-md-4 m-t-20">
-                                        <h3 class="m-b-0 font-light">1099</h3><small>Articles</small></div>
+                                        <h3 class="m-b-0 font-light">1,587</h3><small>Poin</small></div>
                                     <div class="col-lg-4 col-md-4 m-t-20">
-                                        <h3 class="m-b-0 font-light">23,469</h3><small>Followers</small></div>
+                                        <h3 class="m-b-0 font-light">200</h3><small>Pengunjung</small></div>
                                     <div class="col-lg-4 col-md-4 m-t-20">
-                                        <h3 class="m-b-0 font-light">6035</h3><small>Following</small></div>
+                                        <h3 class="m-b-0 font-light">4</h3><small>Relasi</small></div>
                                 </div>
                             </div>
                         </div>
                         <!-- Column -->
                         <div class="card card-bg">
                             <div class="card-block bg-info pad-bot-card">
-                                <h4 class="text-white card-title">My Contacts</h4>
-                                <h6 class="card-subtitle text-white m-b-0 op-5">Checkout my contacts here</h6>
+                                <h4 class="text-white card-title">Relasi Saya</h4>
                             </div>
                             <div class="card-block">
                                 <div class="message-box contact-box">
-                                    <h2 class="add-ct-btn"><button type="button" class="btn btn-circle btn-lg btn-success waves-effect waves-dark">+</button></h2>
                                     <div class="message-widget contact-widget">
                                         <!-- Message -->
                                         <a href="#">
                                             <div class="user-img"> <img src="../../../assets/img/users/1.jpg" alt="user" class="img-circle"> <span class="profile-status online pull-right"></span> </div>
                                             <div class="mail-contnet">
-                                                <h5>Pavan kumar</h5> <span class="mail-desc">info@wrappixel.com</span></div>
+                                                <h5>Irfan M hadi</h5> <span class="mail-desc">Desain Komunikasi Visual</span></div>
                                         </a>
                                         <!-- Message -->
                                         <a href="#">
                                             <div class="user-img"> <img src="../../../assets/img/users/2.jpg" alt="user" class="img-circle"> <span class="profile-status busy pull-right"></span> </div>
                                             <div class="mail-contnet">
-                                                <h5>Sonu Nigam</h5> <span class="mail-desc">pamela1987@gmail.com</span></div>
+                                                <h5>Nadia Carter</h5> <span class="mail-desc">Periklanan</span></div>
                                         </a>
                                         <!-- Message -->
                                         <a href="#">
                                             <div class="user-img"> <span class="round">A</span> <span class="profile-status away pull-right"></span> </div>
                                             <div class="mail-contnet">
-                                                <h5>Arijit Sinh</h5> <span class="mail-desc">cruise1298.fiplip@gmail.com</span></div>
+                                                <h5>Arifin Bachtiar</h5> <span class="mail-desc">Arsitektur</span></div>
                                         </a>
                                         <!-- Message -->
                                         <a href="#">
                                             <div class="user-img"> <img src="../../../assets/img/users/4.jpg" alt="user" class="img-circle"> <span class="profile-status offline pull-right"></span> </div>
                                             <div class="mail-contnet">
-                                                <h5>Pavan kumar</h5> <span class="mail-desc">kat@gmail.com</span></div>
+                                                <h5>Ibrahim Maulana</h5> <span class="mail-desc">Fotografi</span></div>
                                         </a>
                                     </div>
                                 </div>
@@ -120,7 +118,7 @@
                                               <div class="col-md-12" style="background:white;">
                                                   <textarea rows="5" class="form-control form-control-line" style="padding-top: 10px;padding-left: 0px;"></textarea>
                                               </div>
-                                              <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-camera"></i> Sisipkan gambar</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-paperclip"></i> Sisipkan file</a> </div>
+                                              <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-camera"></i> Sisipkan gambar</a></div>
                                           </div>
                                           <div class="form-group">
                                               <div class="col-sm-10">
@@ -133,37 +131,46 @@
                                       <hr>
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
-                                              <div> <a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
-                                                  <div class="user-img col"> <img src="../../../assets/img/users/4.jpg" alt="user" style="width:150px"> <span class="profile-status offline pull-right"></span> </div>
+                                              <div> <a href="#" class="link">Arifin Bachtiar</a> <span class="sl-date">Baru Saja</span>
+                                                  <div class="user-img col"> <img src="../../../assets/img/aktivitas/2.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
                                                   <div class="m-t-20 row">
                                                       <div class="col-md-9 col-xs-12">
-                                                          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. </p> </div>
+                                                          <p> Pembangunan gedung baru apartement Gateway Jakarta. </p> </div>
+                                                  </div>
+                                                  <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10">0 comment</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart text-danger"></i> 2 Love</a> </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                      <hr>
+                                      <div class="sl-item mrgn-event">
+                                          <div class="sl-right">
+                                              <div> <a href="#" class="link">Ibrahim Maulana</a> <span class="sl-date">1 minutes ago</span>
+                                                  <div class="user-img col"> <img src="../../../assets/img/aktivitas/3.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
+                                                  <div class="m-t-20 row">
+                                                      <div class="col-md-9 col-xs-12">
+                                                          <p> Cari spot bagus buat projek foto. </p> </div>
+                                                  </div>
+                                                  <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10">2 comment</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart text-danger"></i> 6 Love</a> </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                      <hr>
+                                      <div class="sl-item mrgn-event">
+                                          <div class="sl-right">
+                                              <div> <a href="#" class="link">Nadia Carter</a> <span class="sl-date">3 minutes ago</span>
+                                                  <div class="user-img col"> <img src="../../../assets/img/aktivitas/1.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
+                                                  <div class="m-t-20 row">
+                                                      <div class="col-md-9 col-xs-12">
+                                                          <p> Pelatihan marketing di senayan bersama Bpk Indra S.Pd</p> </div>
                                                   </div>
                                                   <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10">2 comment</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart text-danger"></i> 5 Love</a> </div>
                                               </div>
                                           </div>
-                                      </div>
-                                      <hr>
-                                      <div class="sl-item mrgn-event">
-                                          <div class="sl-right">
-                                              <div><a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
-                                                  <p class="m-t-10"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper </p>
-                                              </div>
-                                              <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10">2 comment</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart text-danger"></i> 5 Love</a> </div>
-                                          </div>
-                                      </div>
-                                      <hr>
-                                      <div class="sl-item mrgn-event">
-                                          <div class="sl-right">
-                                              <div><a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
-                                                  <blockquote class="m-t-10">
-                                                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                                                  </blockquote>
-                                              </div>
-                                          </div>
-                                      </div>
+                                      </div>                                      
                                     </div>
                                 </div>
+
+                                
                                 <!--second tab-->
                                 <div class="tab-pane" id="info" role="tabpanel">
                                     <div class="card-block">
@@ -187,47 +194,67 @@
                                               <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10">2 comment</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart text-danger"></i> 5 Love</a> </div>
                                           </div>
                                       </div>
-                                      <hr>
-                                      <div class="sl-item mrgn-event">
-                                          <div class="sl-right">
-                                              <div><a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
-                                                  <blockquote class="m-t-10">
-                                                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                                                  </blockquote>
-                                              </div>
-                                          </div>
-                                      </div>
                                     </div>
                                 </div>
+
+
+
                                 <div class="tab-pane" id="acara" role="tabpanel">
                                     <div class="card-block">
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
-                                              <div> <a href="#" class="link">Imron Abu Laiz</a> <span class="sl-date">5 minutes ago</span>
+                                              <div> <a href="#" class="link"><STRONG>Bekraf Developer Day 2018 - Surabaya</STRONG></a>
+                                                <div class="user-img col"> <img src="../../../assets/img/event/1.png" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
                                                   <div class="m-t-20 row">
                                                       <div class="col-md-9 col-xs-12">
-                                                          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. </p> </div>
+                                                          <p> Praktisi aplikasi dan game akan berkumpul di Surabaya - memberikan bimbingan kepada developer untuk kemandirian bangsa. </p> </div>
                                                   </div>
-                                                  <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10">2 comment</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart text-danger"></i> 5 Love</a> </div>
+                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
                                               </div>
-                                          </div>
-                                      </div>
-                                      <hr>
-                                      <div class="sl-item mrgn-event">
-                                          <div class="sl-right">
-                                              <div><a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
-                                                  <p class="m-t-10"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper </p>
+                                              <hr>
+                                              <div> <a href="#" class="link"><STRONG>Sinar Mas Land Young Architect Competition 2017</STRONG></a>
+                                                <div class="user-img col"> <img src="../../../assets/img/event/2.png" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
+                                                  <div class="m-t-20 row">
+                                                      <div class="col-md-9 col-xs-12">
+                                                          <p> Memberikan kesempatan untuk berpartisipasi dalam merencanakan konsep desain yang sejalan dengan visi dan misi Sinar Mas Land sebagai . . . </p> </div>
+                                                  </div>
+                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
                                               </div>
-                                              <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10">2 comment</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart text-danger"></i> 5 Love</a> </div>
-                                          </div>
-                                      </div>
-                                      <hr>
-                                      <div class="sl-item mrgn-event">
-                                          <div class="sl-right">
-                                              <div><a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
-                                                  <blockquote class="m-t-10">
-                                                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                                                  </blockquote>
+                                              <hr>
+                                              <div> <a href="#" class="link"><STRONG>Pelatihan Kuliner, `Wah..Asyik Banget`</STRONG></a>
+                                                <div class="user-img col"> <img src="../../../assets/img/event/3.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
+                                                  <div class="m-t-20 row">
+                                                      <div class="col-md-9 col-xs-12">
+                                                          <p> Suku Dinas Perindustrian dan Energi (PE) Jakarta Barat menggembleng puluhan ibu-ibu rumah tangga untuk membuat roti.</p> </div>
+                                                  </div>
+                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
+                                              </div>
+                                              <hr>
+                                              <div> <a href="#" class="link"><STRONG>GDG Prime 2015 : Conference (Peserta Umum)</STRONG></a>
+                                                <div class="user-img col"> <img src="../../../assets/img/event/4.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
+                                                  <div class="m-t-20 row">
+                                                      <div class="col-md-9 col-xs-12">
+                                                          <p> GDG adalah sebuah event yang bertujuan untuk menghubungkan mahasiswa,developer game, investor, publisher dan media dalam sebuah platform untuk saling . . . </p> </div>
+                                                  </div>
+                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
+                                              </div>
+                                              <hr>
+                                              <div> <a href="#" class="link"><STRONG>Intel Innovation Day 2015 - Top Developers, Universities, & Partners</STRONG></a>
+                                                <div class="user-img col"> <img src="../../../assets/img/event/5.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
+                                                  <div class="m-t-20 row">
+                                                      <div class="col-md-9 col-xs-12">
+                                                          <p> Dicoding & Intel akan hadir di Yogyakarta untuk berbagi mengenai penggunaan Intel NDK pada Android Education Apps & Games.</p> </div>
+                                                  </div>
+                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
+                                              </div>
+                                              <hr>
+                                              <div> <a href="#" class="link"><STRONG>Bengkel GameLan Desember #3</STRONG></a>
+                                                <div class="user-img col"> <img src="../../../assets/img/event/3.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
+                                                  <div class="m-t-20 row">
+                                                      <div class="col-md-9 col-xs-12">
+                                                          <p> Bengkel GameLan adalah event mingguan dari komunitas game developer Jogja (GameLan). </p> </div>
+                                                  </div>
+                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
                                               </div>
                                           </div>
                                       </div>

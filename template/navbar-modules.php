@@ -11,7 +11,7 @@
                     <li <?php if ($thisPage=="Pesan") echo "class='active'"; else echo "";?>><a href="../../message/view">Pesan</a></li>
                     <li <?php if ($thisPage=="Cari Relasi") echo "class='active'"; else echo "";?>><a href="../../search/view">Cari Relasi</a></li>
                     <li <?php if ($thisPage=="Acara") echo "class='active'"; else echo "";?>><a href="../../event/view">Acara</a></li>
-                    <li><a href="../../../index.php">Logout</a></li>
+                    <li><a href="../../user/controller/logout.php">Logout</a></li>
                 </ul>
             </div>
         </div>
