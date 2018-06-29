@@ -170,10 +170,10 @@ Terdapat pendaftaran dan konsultasi Hak Kekayaan Intelektual dari Deputi HKI BEK
                               <div class="tab-pane" id="Dokumentasi" role="tabpanel">
                                   <div class="card-block">
                                     <div class="row mrgn-event">
-                                        <div class="col-lg-3 col-md-6 m-b-20"><img src="../../../assets/img/big/img1.jpg" alt="user" class="img-responsive radius"></div>
-                                        <div class="col-lg-3 col-md-6 m-b-20"><img src="../../../assets/img/big/img2.jpg" alt="user" class="img-responsive radius"></div>
-                                        <div class="col-lg-3 col-md-6 m-b-20"><img src="../../../assets/img/big/img3.jpg" alt="user" class="img-responsive radius"></div>
-                                        <div class="col-lg-3 col-md-6 m-b-20"><img src="../../../assets/img/big/img4.jpg" alt="user" class="img-responsive radius"></div>
+                                        <div class="col-lg-3 col-md-6 m-b-20"><img src="../../../assets/img/dok/1.jpg" alt="user" class="img-responsive radius"></div>
+                                        <div class="col-lg-3 col-md-6 m-b-20"><img src="../../../assets/img/dok/2.jpg" alt="user" class="img-responsive radius" style="height: 160px;"></div>
+                                        <div class="col-lg-3 col-md-6 m-b-20"><img src="../../../assets/img/dok/1.jpg" alt="user" class="img-responsive radius" style="height: 160px;"></div>
+                                        <div class="col-lg-3 col-md-6 m-b-20"><img src="../../../assets/img/dok/2.jpg" alt="user" class="img-responsive radius" style="height: 160px;"></div>
                                     </div>
                                   </div>
                               </div>
@@ -200,15 +200,6 @@ Terdapat pendaftaran dan konsultasi Hak Kekayaan Intelektual dari Deputi HKI BEK
                                         </div>
                                     </div>
                                     <hr>
-                                    <div class="sl-item mrgn-event">
-                                        <div class="sl-right">
-                                            <div><a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
-                                                <blockquote class="m-t-10">
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                                                </blockquote>
-                                            </div>
-                                        </div>
-                                    </div>
                                   </div>
                               </div>
                           </div>
