@@ -7,10 +7,10 @@
             </div>
             <div id="main-nav" class="stellarnav">
                 <ul id="nav" class="nav">
-                    <li><a href="#features">Beranda</a></li>
-                    <li><a href="#app">Pesan</a></li>
-                    <li><a href="#video">Cari Relasi</a></li>
-                    <li><a href="#screenshot">Acara</a></li>
+                    <li class="active"><a href="../../beranda/view/">Beranda</a></li>
+                    <li><a href="#pesam">Pesan</a></li>
+                    <li><a href="../../search/view">Cari Relasi</a></li>
+                    <li><a href="../../event/view">Acara</a></li>
                 </ul>
             </div>
         </div>

@@ -3090,6 +3090,10 @@ label.mt10.valid {
   padding-left: 15px;
 }
 
-.brand-mod{
+.brand-mod {
   padding-top: 15px;
+}
+
+.img-event {
+  width:250px;
 }
