@@ -28,7 +28,7 @@
         <div class="header-top-area">
             <!--MAINMENU AREA-->
             <?php
-              $thisPage = "Beranda";
+              $thisPage = "";
               require('../../../template/navbar-modules.php');
             ?>
             <!--END MAINMENU AREA END-->
