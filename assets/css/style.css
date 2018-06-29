@@ -3056,7 +3056,6 @@ label.mt10.valid {
 
 
 
-
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -3492,4 +3491,61 @@ ul, li {
 .main-nav li:nth-child(2) a:hover {
 	background: #b13131;
 	border: 2px solid #b13131;
+
+/*------------------------
+    Modifikasi Navbar
+--------------------------*/
+.mod-navbar{
+  background: #1193d4 none repeat scroll 0% 0%;
+  width: 1349px;
+  height: 80px;
+  margin-top: -20px;
+  position: fixed;
+  top: 0px;
+  z-index: auto;
+}
+
+.top-container{
+  padding-top: 20px;
+}
+
+.little-profile .pro-img {
+  margin-top: -80px;
+  margin-bottom: 20px;
+}
+
+.little-profile .pro-img img {
+  width: 128px;
+  height: 128px;
+  -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 100%;
+}
+
+.card-bg {
+    background: #eaf9ff;
+}
+
+.pad-bot-card {
+  padding-bottom: 15px;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.brand-mod {
+  padding-top: 15px;
+}
+
+.img-event {
+  width:250px;
+}
+
+.btn-event{
+  margin-left: 15px;
+}
+
+.mrgn-event{
+  margin: 15px;
+
 }

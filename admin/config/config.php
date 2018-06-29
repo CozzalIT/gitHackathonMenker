@@ -6,6 +6,7 @@
   }else{
   	if($_SESSION['hak_akses']=='admin'){
   		$username = $_SESSION['username'];
+      date_default_timezone_set('Asia/Jakarta');
   	}else{
   		header('location:../../.../index.php');
   	}
