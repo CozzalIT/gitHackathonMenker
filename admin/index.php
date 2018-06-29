@@ -25,36 +25,55 @@
       <!-- Navbar -->
 
       <!-- End Navbar -->
-      <div class="content">
+          <div class="content">
+            <div class="row"style="margin-top: 150px;">
+              <div class="col-md-3" >
 
-      <div class="col-md-8">
-              <div class="card">
-                <div class="card-header card-header-primary">
-                  <h4 class="card-title">Login Form</h4>
-                </div>
-                <div class="card-body">
-                  <form>
-                    <div class="row">
-                      <div class="col-md-5">
-                        <div class="form-group bmd-form-group">
-                          <label class="bmd-label-floating">Username</label>
-                          <input name="username" class="form-control" type="text" value="">
-                        </div>
-                      </div>
-                      <div class="col-md-3">
-                        <div class="form-group bmd-form-group">
-                          <label class="bmd-label-floating">Password</label>
-                          <input name="password" class="form-control" type="password" value="">
-                        </div>
-                      </div>
-                    </div>
-                    <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
-                    <div class="clearfix"></div>
-                  </form>
-                </div>
+              </div>
+              <div class="col-md-6">
+                <center>
+                  <h2>Ketenagakerjaan</h2>
+                </center>
+              </div>
+              <div class="col-md-3">
+
               </div>
             </div>
+            <div class="row" style="margin-top: 5px;">
+              <div class="col-md-3">
 
+              </div>
+              <div class="col-md-6">
+                  <div class="card">
+                    <div class="card-header card-header-info">
+                      <h4 class="card-title">Login Form</h4>
+                    </div>
+                    <div class="card-body">
+                      <form action="modules/home/view/">
+                        <div class="row">
+                          <div class="col-md-5">
+                            <div class="form-group bmd-form-group">
+                              <label class="bmd-label-floating">Username</label>
+                              <input name="username" class="form-control" type="text" value="">
+                            </div>
+                          </div>
+                          <div class="col-md-3">
+                            <div class="form-group bmd-form-group">
+                              <label class="bmd-label-floating">Password</label>
+                              <input name="password" class="form-control" type="password" value="">
+                            </div>
+                          </div>
+                        </div>
+                        <button type="submit" class="btn btn-info pull-right">Login</button>
+                        <div class="clearfix"></div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+
+                </div>
+            </div>
       </div>
   </div>
   <!--   Core JS Files   -->
