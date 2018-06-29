@@ -14,7 +14,7 @@
     <meta name="keywords" content="App, Landing, Business, Onepage, Html, Business" />
 
     <!--====== TITLE TAG ======-->
-    <title>Massive Html5 App Landing Template</title>
+    <title>InspiraShare</title>
 
     <!--====== FAVICON ICON =======-->
     <link rel="shortcut icon" type="image/ico" href="assets/img/favicon.png" />
@@ -76,7 +76,7 @@
             <div class="row">
                 <div class="col-md-8 col-lg-6 col-md-offset-2 col-lg-offset-3 col-sm-12 col-xs-12">
                     <div class="area-title text-center wow fadeIn">
-                        <h2>welcome to <span>app features</span></h2>
+                        <h2>Selamat Datang di <span>InspiraShare</span></h2>
                         <span class="icon-and-border"><i class="material-icons">phone_android</i></span>
                         <p>Rapidiously monetize state of the art ROI rather than quality. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim neque aliquid.</p>
                     </div>
