@@ -1138,6 +1138,7 @@ ul#nav li a {
     text-transform: uppercase;
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
+    border-radius: 4px;
 }
 
 ul#nav li a:hover,
@@ -1149,6 +1150,7 @@ ul#nav li.active a {
   border: none;
   background-color: #ffffff;
         color: #5e88fc;
+        border-radius: 8px;
 }
 
 .is-sticky ul#nav li a {

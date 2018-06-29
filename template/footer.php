@@ -3,17 +3,6 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
-                    <div class="subscriber-form-area wow fadeIn">
-                        <!--<form action="#" class="subscriber-form mb100">
-                            <input type="email" name="email" id="email" placeholder="Email Address">
-                            <button type="submit">Subscribe</button>
-                        </form>-->
-                        <form id="mc-form" class="subscriber-form mb100">
-                            <label class="mt10" for="mc-email"></label>
-                            <input type="email" id="mc-email" placeholder="email@example.com">
-                            <button type="submit" class="plus-btn">Submit</button>
-                        </form>
-                    </div>
                 </div>
             </div>
         </div>

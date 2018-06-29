@@ -7,14 +7,9 @@
             </div>
             <div id="main-nav" class="stellarnav">
                 <ul id="nav" class="nav">
-                    <li class="active"><a href="#home">home</a></li>
-                    <li><a href="#features">Features</a></li>
-                    <li><a href="#app">App</a></li>
-                    <li><a href="#video">Video</a></li>
-                    <li><a href="#screenshot">Screenshot</a></li>
-                    <li><a href="#team">Team</a></li>
-                    <li><a href="#pricing">Pricing</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li class="active"><a href="#home">Registrasi</a></li>
+                    <li><a href="#features">Pengenalan</a></li>
+                    <li><a href="#app">Cari Pekerja</a></li>
                 </ul>
             </div>
         </div>

@@ -7,15 +7,16 @@
             <div class="row flex-v-center">
                 <div class="col-md-8 col-lg-8 col-sm-12 col-xs-12">
                     <div class="welcome-text">
-                        <h1>Create Connect Collaborate</h1>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
+                        <h1>Bergabung bersama para pekerja industri kreatif dan freelancer.</h1>
+                        <p>Dapatkan informasi lebih serta relasi yang lebih luas dalam lingkup nasional guna mengembangkan usaha yang anda jalani.</p>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12" style="background:#00000060; padding-top:20px; border-radius:8px;">
+
                   <div class="contact-form mb50 wow fadeIn">
-                      <h3>DAFTARKAN DIRI ANDA</h3>
-                      <form action="process.php" id="contact-form" method="post">
+                      <form action="process.php" id="daftar" method="post">
+                        <h3><center>DAFTARKAN DIRI ANDA</center></h3>
                           <div class="form-group" id="name-field">
                               <div class="form-input">
                                   <input type="text" class="form-control" id="form-name" name="form-name" placeholder="Nama.." required>
@@ -32,10 +33,33 @@
                               </div>
                           </div>
                           <div class="form-group">
-                              <button class="btn btn-primary" type="submit" style="background:black;">DAFTAR</button>
+                              <button class="btn btn-primary" type="submit" style="background:black; width: 100%">Daftar Baru</button> 
+                              <center><p> --- Atau --- </p></center>
+                               <button type="reset" id="to_login" class="btn btn-primary" style="background:gray; width: 100%">Sudah Daftar</button>                            
                           </div>
                       </form>
+
+                      <form action="modules/login/controller/login.php" id="login" method="post">
+                        <h3><center>Silahkan Masuk</center></h3>
+                          <div class="form-group" id="name-field">
+                              <div class="form-input">
+                                  <input type="text" class="form-control" id="form-name" name="form-name" placeholder="Username ..." required>
+                              </div>
+                          </div>
+                          <div class="form-group" id="email-field">
+                              <div class="form-input">
+                                  <input type="password" class="form-control" id="form-email" name="form-email" placeholder="Password ..." required>
+                              </div>
+                          </div>
+                          <div class="form-group">
+                              <button class="btn btn-primary" type="submit" style="background:green; width: 100%">Masuk</button> 
+                              <hr>
+                               <button type="reset" id="to_daftar" class="btn btn-primary" style="background:red; width: 100%">Kembali</a>                             
+                          </div>
+                      </form>
+
                   </div>
+
                 </div>
             </div>
         </div>
