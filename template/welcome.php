@@ -8,7 +8,7 @@
                 <div class="col-md-8 col-lg-8 col-sm-12 col-xs-12">
                     <div class="welcome-text">
                         <h1>Bergabung bersama para pekerja industri kreatif dan freelancer.</h1>
-                        <p>Dapatkan informasi lebih serta relasi yang lebih luas dalam lingkup nasional guna mengembangkan usaha yang anda jalani.</p>
+                        <p>Dapatkan informasi lebih serta relasi yang lebih luas dalam lingkup nasional guna mengembangkan usaha yang anda jalani</p>
                     </div>
                 </div>
 
@@ -43,7 +43,7 @@
                         <h3><center>Silahkan Masuk</center></h3>
                           <div class="form-group" id="name-field">
                               <div class="form-input">
-                                  <input type="text" class="form-control" id="form-name" name="form-name" placeholder="Username ..." required>
+                                  <input type="text" class="form-control" id="form-name" name="form-name" name="Username" placeholder="Username ..." required>
                               </div>
                           </div>
                           <div class="form-group" id="email-field">
@@ -52,7 +52,7 @@
                               </div>
                           </div>
                           <div class="form-group">
-                              <button class="btn btn-primary" type="submit" style="background:#1e88e5; width: 100%">Masuk</button>
+                              <button class="btn btn-primary" type="submit" style="background:#1e88e5; width: 100%" name="requestLogin">Masuk</button>
                               <hr>
                                <button type="reset" id="to_daftar" class="btn btn-primary" style="background:#eaf9ff; width: 100%; color:black;">Kembali</a>
                           </div>
