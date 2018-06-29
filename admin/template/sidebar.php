@@ -11,10 +11,34 @@
   </div>
   <div class="sidebar-wrapper">
     <ul class="nav">
-      <li class="nav-item active  ">
-        <a class="nav-link" href="./dashboard.html">
+      <li class="nav-item <?php if($thisPage=='dashboard') {echo 'active';} ?>">
+        <a class="nav-link" href="../../home/view/">
           <i class="material-icons">dashboard</i>
           <p>Dashboard</p>
+        </a>
+      </li>
+      <li class="nav-item <?php if($thisPage=='user') echo 'active'; ?>">
+        <a class="nav-link" href="../../user/view/">
+          <i class="material-icons">person</i>
+          <p>Data User</p>
+        </a>
+      </li>
+      <li class="nav-item <?php if($thisPage=='sub-sector') echo 'active'; ?>">
+        <a class="nav-link" href="../../sub-sector/view/">
+          <i class="material-icons">horizontal_split</i>
+          <p>Sub Sektor</p>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../../home/view/">
+          <i class="material-icons">event</i>
+          <p>Acara</p>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../../home/view/">
+          <i class="material-icons">library_books</i>
+          <p>Berita</p>
         </a>
       </li>
       <!-- <li class="nav-item active-pro ">
