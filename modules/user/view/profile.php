@@ -5,41 +5,9 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js" lang="en">
 <!--<![endif]-->
-<head>
-    <!--====== USEFULL META ======-->
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Massive HTML5 Template is a simple Smooth Personal App Landing Template" />
-    <meta name="keywords" content="App, Landing, Business, Onepage, Html, Business" />
-
-    <!--====== TITLE TAG ======-->
-    <title>InspiraShare</title>
-
-    <!--====== FAVICON ICON =======-->
-    <link rel="shortcut icon" type="image/ico" href="assets/img/favicon.png" />
-
-    <!--====== STYLESHEETS ======-->
-    <link rel="stylesheet" href="assets/css/normalize.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/modal-video.min.css">
-    <link rel="stylesheet" href="assets/css/stellarnav.min.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.css">
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="assets/css/material-icons.css" rel="stylesheet">
-
-    <!--====== MAIN STYLESHEETS ======-->
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link href="assets/css/responsive.css" rel="stylesheet">
-
-    <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
-    <!--[if lt IE 9]>
-        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
-</head>
+<?php
+  require('../../../template/head.php');
+?>
 
 <body class="home-one" data-spy="scroll" data-target=".mainmenu-area" data-offset="90">
 
@@ -56,27 +24,27 @@
     <a href="#home" class="scrolltotop"><i class="fa fa-long-arrow-up"></i></a>
 
     <!--START TOP AREA-->
-    <header class="top-area" id="home">
+    <header class="" id="home">
         <div class="header-top-area">
             <!--MAINMENU AREA-->
             <?php
-              require('template/navbar.php');
+              require('../../../template/navbar-modules.php');
             ?>
             <!--END MAINMENU AREA END-->
         </div>
         <?php
-          require('template/welcome.php');
+          //require('../../../template/welcome.php');
         ?>
     </header>
     <!--END TOP AREA-->
 
     <!--FEATURES TOP AREA-->
     <section class="features-top-area padding-100-50" id="features">
-        <div class="container">
+        <div class="container top-container">
             <div class="row">
                 <div class="col-md-8 col-lg-6 col-md-offset-2 col-lg-offset-3 col-sm-12 col-xs-12">
                     <div class="area-title text-center wow fadeIn">
-                        <h2>Selamat Datang di <span>InspiraShare</span></h2>
+                        <h2>welcome to <span>app features</span></h2>
                         <span class="icon-and-border"><i class="material-icons">phone_android</i></span>
                         <p>Rapidiously monetize state of the art ROI rather than quality. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim neque aliquid.</p>
                     </div>
@@ -225,7 +193,7 @@
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-4 col-xs-12 ">
                     <div class="service-image text-center wow fadeIn">
-                        <img src="assets/img/mockups/work-area-mockup.png" alt="">
+                        <img src="../../../assets/img/mockups/work-area-mockup.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-4 col-xs-12 pull-left">
@@ -264,43 +232,43 @@
                     <div class="screenshot-slider-area wow fadeIn">
                         <div class="screenshot-slider">
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-1.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-1.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-2.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-2.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-3.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-3.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-4.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-4.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-5.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-5.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-6.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-6.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-7.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-7.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-1.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-1.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-2.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-2.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-3.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-3.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-4.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-4.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-5.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-5.jpg" alt="">
                             </div>
                             <div class="single-screenshot">
-                                <img src="assets/img/screenshot/screenshot-6.jpg" alt="">
+                                <img src="../../../assets/img/screenshot/screenshot-6.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -328,7 +296,7 @@
                         <div class="single-testmonial center">
                             <div class="testmonial-author-data">
                                 <div class="author-image">
-                                    <img src="assets/img/testmonial/testmonial-1.jpg" alt="">
+                                    <img src="../../../assets/img/testmonial/testmonial-1.jpg" alt="">
                                 </div>
                             </div>
                             <div class="testmonial-author-details">
@@ -342,7 +310,7 @@
                         <div class="single-testmonial center">
                             <div class="testmonial-author-data">
                                 <div class="author-image">
-                                    <img src="assets/img/testmonial/testmonial-1.jpg" alt="">
+                                    <img src="../../../assets/img/testmonial/testmonial-1.jpg" alt="">
                                 </div>
                             </div>
                             <div class="testmonial-author-details">
@@ -356,7 +324,7 @@
                         <div class="single-testmonial center">
                             <div class="testmonial-author-data">
                                 <div class="author-image">
-                                    <img src="assets/img/testmonial/testmonial-1.jpg" alt="">
+                                    <img src="../../../assets/img/testmonial/testmonial-1.jpg" alt="">
                                 </div>
                             </div>
                             <div class="testmonial-author-details">
@@ -414,16 +382,16 @@
                 <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
                     <div class="team-member-thumb tab-content">
                         <div class="member-thumb member-one tab-pane fade in active">
-                            <img src="assets/img/team/team-1.png" alt="">
+                            <img src="../../../assets/img/team/team-1.png" alt="">
                         </div>
                         <div class="member-thumb member-two tab-pane fade">
-                            <img src="assets/img/team/team-2.png" alt="">
+                            <img src="../../../assets/img/team/team-2.png" alt="">
                         </div>
                         <div class="member-thumb member-three tab-pane fade">
-                            <img src="assets/img/team/team-3.png" alt="">
+                            <img src="../../../assets/img/team/team-3.png" alt="">
                         </div>
                         <div class="member-thumb member-four tab-pane fade">
-                            <img src="assets/img/team/team-4.png" alt="">
+                            <img src="../../../assets/img/team/team-4.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -488,10 +456,10 @@
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                     <div class="team-member-thumb-menu">
                         <ul class="inline-blcok">
-                            <li class="active"><a data-toggle="tab" href=".member-one"><img src="assets/img/team/thumb-3.jpg" alt=""></a></li>
-                            <li><a data-toggle="tab" href=".member-two"><img src="assets/img/team/thumb-2.jpg" alt=""></a></li>
-                            <li><a data-toggle="tab" href=".member-three"><img src="assets/img/team/thumb-1.jpg" alt=""></a></li>
-                            <li><a data-toggle="tab" href=".member-four"><img src="assets/img/team/thumb-4.jpg" alt=""></a></li>
+                            <li class="active"><a data-toggle="tab" href=".member-one"><img src="../../../assets/img/team/thumb-3.jpg" alt=""></a></li>
+                            <li><a data-toggle="tab" href=".member-two"><img src="../../../assets/img/team/thumb-2.jpg" alt=""></a></li>
+                            <li><a data-toggle="tab" href=".member-three"><img src="../../../assets/img/team/thumb-1.jpg" alt=""></a></li>
+                            <li><a data-toggle="tab" href=".member-four"><img src="../../../assets/img/team/thumb-4.jpg" alt=""></a></li>
                         </ul>
                     </div>
                 </div>
@@ -622,7 +590,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="single-blog mb30 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="blog-thumb width100">
-                            <a href="blog.html"><img src="assets/img/blog/blog-1.jpg" alt=""></a>
+                            <a href="blog.html"><img src="../../../assets/img/blog/blog-1.jpg" alt=""></a>
                         </div>
                         <div class="blog-details padding-30 border">
                             <h4><a href="blog.html">Experience And Resources By Your Side.</a></h4>
@@ -635,7 +603,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="single-blog mb30 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="blog-thumb width100">
-                            <a href="blog.html"><img src="assets/img/blog/blog-2.jpg" alt=""></a>
+                            <a href="blog.html"><img src="../../../assets/img/blog/blog-2.jpg" alt=""></a>
                         </div>
                         <div class="blog-details padding-30 border">
                             <h4><a href="blog.html">The Most Effective App For mobile</a></h4>
@@ -648,7 +616,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                     <div class="single-blog mb30 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="blog-thumb width100">
-                            <a href="blog.html"><img src="assets/img/blog/blog-3.jpg" alt=""></a>
+                            <a href="blog.html"><img src="../../../assets/img/blog/blog-3.jpg" alt=""></a>
                         </div>
                         <div class="blog-details padding-30 border">
                             <h4><a href="blog.html">We Help Your Time Work For Your Company</a></h4>
@@ -665,34 +633,34 @@
 
     <!--CONTACT US AREA-->
     <?php
-      require('template/contact-us.php');
+      require('../../../template/contact-us.php');
     //<!--CONTACT US AREA END-->
     //<!--FOOTER AREA-->
-      require('template/footer.php');
+      require('../../../template/footer.php');
     ?>
     <!--FOOTER AREA END-->
 
 
     <!--====== SCRIPTS JS ======-->
-    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="assets/js/vendor/bootstrap.min.js"></script>
+    <script src="../../../assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="../../../assets/js/vendor/bootstrap.min.js"></script>
 
     <!--====== PLUGINS JS ======-->
-    <script src="assets/js/vendor/jquery.easing.1.3.js"></script>
-    <script src="assets/js/vendor/jquery-migrate-1.2.1.min.js"></script>
-    <script src="assets/js/vendor/jquery.appear.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/stellar.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/jquery-modal-video.min.js"></script>
-    <script src="assets/js/stellarnav.min.js"></script>
-    <script src="assets/js/contact-form.js"></script>
-    <script src="assets/js/jquery.ajaxchimp.js"></script>
-    <script src="assets/js/jquery.sticky.js"></script>
+    <script src="../../../assets/js/vendor/jquery.easing.1.3.js"></script>
+    <script src="../../../assets/js/vendor/jquery-migrate-1.2.1.min.js"></script>
+    <script src="../../../assets/js/vendor/jquery.appear.js"></script>
+    <script src="../../../assets/js/owl.carousel.min.js"></script>
+    <script src="../../../assets/js/slick.min.js"></script>
+    <script src="../../../assets/js/stellar.js"></script>
+    <script src="../../../assets/js/wow.min.js"></script>
+    <script src="../../../assets/js/jquery-modal-video.min.js"></script>
+    <script src="../../../assets/js/stellarnav.min.js"></script>
+    <script src="../../../assets/js/contact-form.js"></script>
+    <script src="../../../assets/js/jquery.ajaxchimp.js"></script>
+    <script src="../../../assets/js/jquery.sticky.js"></script>
 
     <!--===== ACTIVE JS=====-->
-    <script src="assets/js/main.js"></script>
+    <script src="../../../assets/js/main.js"></script>
 </body>
 
 </html>
