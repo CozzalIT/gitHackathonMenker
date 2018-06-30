@@ -27,10 +27,17 @@
     <header class="" id="home">
         <div class="header-top-area">
             <!--MAINMENU AREA-->
-            <?php
-              $thisPage = "Beranda";
-              require('../../../template/navbar-modules.php');
-            ?>
+<div class="mainmenu-area mod-navbar" id="">
+    <div class="mainmenu-area-bg"></div>
+    <nav class="navbar">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="#home" class="navbar-brand"><img src="../../../assets/img/logo.png" alt="logo" class="brand-mod"></a>
+            </div>
+        </div>
+    </nav>
+</div>
+
             <!--END MAINMENU AREA END-->
         </div>
         <?php
@@ -58,109 +65,87 @@
                                     <div class="card-block">
                                         <form class="form-horizontal form-material">
                                             <div class="form-group">
-                                                <label class="col-md-12">Full Name</label>
+                                                <label class="col-md-12">Nama</label>
                                                 <div class="col-md-12">
-                                                    <input type="text" placeholder="Johnathan Doe" class="form-control form-control-line">
+                                                    <input type="text" placeholder="Nama Lengkap Anda" class="form-control form-control-line">
                                                 </div>
                                             </div>
                                             <div class="form-group">
-                                                <label for="example-email" class="col-md-12">Email</label>
-                                                <div class="col-md-12">
-                                                    <input type="email" placeholder="johnathan@admin.com" class="form-control form-control-line" name="example-email" id="example-email">
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <label class="col-md-12">Password</label>
-                                                <div class="col-md-12">
-                                                    <input type="password" value="password" class="form-control form-control-line">
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <label class="col-md-12">Phone No</label>
-                                                <div class="col-md-12">
-                                                    <input type="text" placeholder="123 456 7890" class="form-control form-control-line">
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <label class="col-md-12">Message</label>
-                                                <div class="col-md-12">
-                                                    <textarea rows="5" class="form-control form-control-line"></textarea>
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <label class="col-sm-12">Select Country</label>
+                                                <label class="col-sm-12">Jenis Kelamin</label>
                                                 <div class="col-sm-12">
-                                                    <select class="form-control form-control-line">
-                                                        <option>London</option>
-                                                        <option>India</option>
-                                                        <option>Usa</option>
-                                                        <option>Canada</option>
-                                                        <option>Thailand</option>
+                                                    <select class="form-control form-control-line" required="">
+                                                        <option value="">---Piih Jenis Kelamin---</option>
+                                                        <option value="laki">Laki - laki</option>
+                                                        <option value="Perempuan">Perempuan</option>
                                                     </select>
                                                 </div>
                                             </div>
                                             <div class="form-group">
-                                                <div class="col-sm-12">
-                                                    <button class="btn btn-success">Update Profile</button>
+                                                <label class="col-md-12">Nomer Telepon</label>
+                                                <div class="col-md-12">
+                                                    <input type="text" placeholder="Format : 08xxxxxxx" class="form-control form-control-line">
                                                 </div>
                                             </div>
                                         </form>
                                     </div>
                                 </div>
                                 <!--second tab-->
-                                <div class="tab-pane" id="t2" role="tabpanel">
+
+                            <div class="tab-content">
+                                <div class="tab-pane active" id="t2" role="tabpanel">
                                     <div class="card-block">
                                         <form class="form-horizontal form-material">
+
+
                                             <div class="form-group">
-                                                <label class="col-md-12">Full Name</label>
-                                                <div class="col-md-12">
-                                                    <input type="text" placeholder="Johnathan Doe" class="form-control form-control-line">
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="example-email" class="col-md-12">Email</label>
-                                                <div class="col-md-12">
-                                                    <input type="email" placeholder="johnathan@admin.com" class="form-control form-control-line" name="example-email" id="example-email">
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <label class="col-md-12">Password</label>
-                                                <div class="col-md-12">
-                                                    <input type="password" value="password" class="form-control form-control-line">
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <label class="col-md-12">Phone No</label>
-                                                <div class="col-md-12">
-                                                    <input type="text" placeholder="123 456 7890" class="form-control form-control-line">
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <label class="col-md-12">Message</label>
-                                                <div class="col-md-12">
-                                                    <textarea rows="5" class="form-control form-control-line"></textarea>
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <label class="col-sm-12">Select Country</label>
+                                                <label class="col-sm-12">Provinsi</label>
                                                 <div class="col-sm-12">
-                                                    <select class="form-control form-control-line">
-                                                        <option>London</option>
-                                                        <option>India</option>
-                                                        <option>Usa</option>
-                                                        <option>Canada</option>
-                                                        <option>Thailand</option>
+                                                    <select class="form-control form-control-line" required="">
+                                                        <option value="">---Piih Provinsi Kelamin---</option>
                                                     </select>
                                                 </div>
                                             </div>
+
                                             <div class="form-group">
+                                                <label class="col-sm-12">Kabupaten/Kota</label>
                                                 <div class="col-sm-12">
-                                                    <button class="btn btn-success">Update Profile</button>
+                                                    <select class="form-control form-control-line" required="">
+                                                        <option value="">---Piih Kabupaten Kota---</option>
+                                                    </select>
                                                 </div>
                                             </div>
+
+                                            <div class="form-group">
+                                                <label class="col-sm-12">Kecamatan</label>
+                                                <div class="col-sm-12">
+                                                    <select class="form-control form-control-line" required="">
+                                                        <option value="">---Piih Kecamatan---</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+
+                                            <div class="form-group">
+                                                <label class="col-sm-12">Desa</label>
+                                                <div class="col-sm-12">
+                                                    <select class="form-control form-control-line" required="">
+                                                        <option value="">---Piih Desa---</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+
+                                            <div class="form-group">
+                                                <label class="col-md-12">Deskripsi Lainnya</label>
+                                                <div class="col-md-12">
+                                                    <input type="text" placeholder="Nama Jalan dsb ..." class="form-control form-control-line">
+                                                </div>
+                                            </div>
+
                                         </form>
                                     </div>
                                 </div>
+                                <!--second tab-->
+
+
                                 <div class="tab-pane" id="t3" role="tabpanel">
                                     <div class="card-block">
                                         <form class="form-horizontal form-material">

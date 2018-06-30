@@ -19,17 +19,17 @@
                         <h3><center>DAFTARKAN DIRI ANDA</center></h3>
                           <div class="form-group" id="name-field">
                               <div class="form-input">
-                                  <input type="text" class="form-control" id="form-name" name="form-name" placeholder="Nama.." required>
+                                  <input  type="text" min="16" max="16" class="form-control" id="form-name" name="nik" placeholder="Nomer Induk Kependudukan" required>
                               </div>
                           </div>
                           <div class="form-group" id="email-field">
                               <div class="form-input">
-                                  <input type="email" class="form-control" id="form-email" name="form-email" placeholder="Email.." required>
+                                  <input type="text" class="form-control" id="form-email" name="form-email" placeholder="Username" required>
                               </div>
                           </div>
                           <div class="form-group" id="phone-field">
                               <div class="form-input">
-                                  <input type="text" class="form-control" id="form-phone" name="form-phone" placeholder="Password..">
+                                  <input type="password" class="form-control" id="form-phone" name="form-phone" placeholder="Password">
                               </div>
                           </div>
                           <div class="form-group">

@@ -14,10 +14,10 @@
     <meta name="keywords" content="App, Landing, Business, Onepage, Html, Business" />
 
     <!--====== TITLE TAG ======-->
-    <title>InspiraShare</title>
+    <title>JalinRelasi</title>
 
     <!--====== FAVICON ICON =======-->
-    <link rel="shortcut icon" type="image/ico" href="assets/img/favicon.png" />
+    <link rel="shortcut icon" type="image/ico" href="assets/img/shortcut.png" />
 
     <!--====== STYLESHEETS ======-->
     <link rel="stylesheet" href="assets/css/normalize.css">
