@@ -29,14 +29,14 @@
           <p>Sub Sektor</p>
         </a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="../../home/view/">
+      <li class="nav-item <?php if($thisPage=='event') echo 'active'; ?>">
+        <a class="nav-link" href="../../event/view/">
           <i class="material-icons">event</i>
           <p>Acara</p>
         </a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="../../home/view/">
+      <li class="nav-item <?php if($thisPage=='news') echo 'active'; ?>">
+        <a class="nav-link" href="../../news/view/">
           <i class="material-icons">library_books</i>
           <p>Berita</p>
         </a>
