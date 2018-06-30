@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php
   require('../../../template/head.php');
-  $thisPage='event';
+  $thisPage='news';
 ?>
 
 <body class="">
@@ -21,7 +21,7 @@
             <div class="col-md-12">
               <div class="card">
                 <div class="card-header card-header-primary">
-                  <h4 class="card-title ">Data Acara</h4>
+                  <h4 class="card-title ">Data Berita</h4>
                   <p class="card-category"> </p>
                 </div>
                 <div class="card-body">
@@ -46,35 +46,7 @@
                       <tbody>
                         <tr>
                           <td>
-                            1
-                          </td>
-                          <td>
-                            Bekraf Developer Day 2018 - Surabaya
-                          </td>
-                          <td>
-                            Praktisi aplikasi dan game akan berkumpul di Surabaya - memberikan...
-                          </td>
-                          <td>
-                            <center>
-                              <a href="#pablo" class="btn btn-primary btn-round">Manage<div class="ripple-container"></div></a>
-                              <a href="#pablo" class="btn btn-danger btn-round">Hapus<div class="ripple-container"></div></a>
-                            </center>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            2
-                          </td>
-                          <td>
-                            Bengkel GameLan Desember #3
-                          </td>
-                          <td>
-                            Bengkel GameLan adalah event mingguan dari komunitas game....
-                          <td>
-                            <center>
-                              <a href="#pablo" class="btn btn-primary btn-round">Manage<div class="ripple-container"></div></a>
-                              <a href="#pablo" class="btn btn-danger btn-round">Hapus<div class="ripple-container"></div></a>
-                            </center>
+                            Belum ada data masuk!!
                           </td>
                         </tr>
                       </tbody>
