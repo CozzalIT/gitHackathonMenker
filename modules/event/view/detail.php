@@ -185,7 +185,6 @@ Terdapat pendaftaran dan konsultasi Hak Kekayaan Intelektual dari Deputi HKI BEK
                                             <div class="col-md-12" style="background:white;">
                                                 <textarea rows="5" class="form-control form-control-line" style="padding-top: 10px;padding-left: 0px;"></textarea>
                                             </div>
-                                            <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-camera"></i> Sisipkan gambar</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-paperclip"></i> Sisipkan file</a> </div>
                                         </div>
                                         <div class="form-group">
                                             <div class="col-sm-10">

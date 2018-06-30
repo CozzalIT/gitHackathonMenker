@@ -7,7 +7,7 @@
             <div class="row flex-v-center">
                 <div class="col-md-8 col-lg-8 col-sm-12 col-xs-12">
                     <div class="welcome-text">
-                        <h1>Bergabung bersama para pekerja industri kreatif dan freelancer.</h1>
+                        <h1>Bergabung bersama para pekerja industri kreatif dan freelancer</h1>
                         <p>Dapatkan informasi lebih serta relasi yang lebih luas dalam lingkup nasional guna mengembangkan usaha yang anda jalani</p>
                     </div>
                 </div>

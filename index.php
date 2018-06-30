@@ -76,7 +76,7 @@
             <div class="row">
                 <div class="col-md-8 col-lg-6 col-md-offset-2 col-lg-offset-3 col-sm-12 col-xs-12">
                     <div class="area-title text-center wow fadeIn">
-                        <h2>Selamat Datang di <span>InspiraShare</span></h2>
+                        <h2>Selamat Datang di <span>jalinrelasi</span></h2>
                         <span class="icon-and-border"><i class="material-icons">phone_android</i></span>
                         <p>Tempat berkumpulnya para pekerja industri kreatif dan pekerja lepasan untuk membangun tenaga kerja yang professional</p>
                     </div>

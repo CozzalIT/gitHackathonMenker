@@ -131,7 +131,7 @@
                                       <hr>
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
-                                              <div> <a href="#" class="link">Arifin Bachtiar</a> <span class="sl-date">Baru Saja</span>
+                                              <div> <strong><a href="#" class="link">Arifin Bachtiar </a></strong><span class="sl-date">Baru Saja</span>
                                                   <div class="user-img col"> <img src="../../../assets/img/aktivitas/2.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
                                                   <div class="m-t-20 row">
                                                       <div class="col-md-9 col-xs-12">
@@ -144,7 +144,7 @@
                                       <hr>
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
-                                              <div> <a href="#" class="link">Ibrahim Maulana</a> <span class="sl-date">1 minutes ago</span>
+                                              <div> <strong><a href="#" class="link">Ibrahim Maulana</a></strong> <span class="sl-date">1 minutes ago</span>
                                                   <div class="user-img col"> <img src="../../../assets/img/aktivitas/3.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
                                                   <div class="m-t-20 row">
                                                       <div class="col-md-9 col-xs-12">
@@ -157,7 +157,7 @@
                                       <hr>
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
-                                              <div> <a href="#" class="link">Nadia Carter</a> <span class="sl-date">3 minutes ago</span>
+                                              <div> <strong><a href="#" class="link">Nadia Carter</a></strong> <span class="sl-date">3 minutes ago</span>
                                                   <div class="user-img col"> <img src="../../../assets/img/aktivitas/1.jpg" alt="user" style="width:600px; height: 300px; margin-top:10px; "> <span class="profile-status offline pull-right"></span> </div>
                                                   <div class="m-t-20 row">
                                                       <div class="col-md-9 col-xs-12">
@@ -176,22 +176,13 @@
                                     <div class="card-block">
                                       <div class="sl-item mrgn-event">
                                           <div class="sl-right">
-                                              <div> <a href="#" class="link">Syifa Nur Zain</a> <span class="sl-date">5 minutes ago</span>
+                                              <div> <a href="#" class="link"><strong>Selamat telah bergabung</strong></a> <span class="sl-date">5 minutes ago</span>
                                                   <div class="m-t-20 row">
                                                       <div class="col-md-9 col-xs-12">
-                                                          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. </p> </div>
+                                                          <p> Terimaksih atas partisipasi anda yang telah mendaftarkan diri pada situs jalinrelasi. Selanjutnya silahkan lengkapi data . . . </p> </div>
                                                   </div>
-                                                  <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10">2 comment</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart text-danger"></i> 5 Love</a> </div>
+                                                  <a href="info.php" class="read-more">Baca Selengkapya</a>
                                               </div>
-                                          </div>
-                                      </div>
-                                      <hr>
-                                      <div class="sl-item mrgn-event">
-                                          <div class="sl-right">
-                                              <div><a href="#" class="link">John Doe</a> <span class="sl-date">5 minutes ago</span>
-                                                  <p class="m-t-10"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper </p>
-                                              </div>
-                                              <div class="like-comm m-t-20"> <a href="javascript:void(0)" class="link m-r-10">2 comment</a> <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart text-danger"></i> 5 Love</a> </div>
                                           </div>
                                       </div>
                                     </div>
@@ -209,7 +200,7 @@
                                                       <div class="col-md-9 col-xs-12">
                                                           <p> Praktisi aplikasi dan game akan berkumpul di Surabaya - memberikan bimbingan kepada developer untuk kemandirian bangsa. </p> </div>
                                                   </div>
-                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
+                                                  <a href="../../event/view/detail.php" class="read-more">Baca Selengkapya</a>
                                               </div>
                                               <hr>
                                               <div> <a href="#" class="link"><STRONG>Sinar Mas Land Young Architect Competition 2017</STRONG></a>
@@ -218,7 +209,7 @@
                                                       <div class="col-md-9 col-xs-12">
                                                           <p> Memberikan kesempatan untuk berpartisipasi dalam merencanakan konsep desain yang sejalan dengan visi dan misi Sinar Mas Land sebagai . . . </p> </div>
                                                   </div>
-                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
+                                                  <a href="../../event/view/detail.php" class="read-more">Baca Selengkapya</a>
                                               </div>
                                               <hr>
                                               <div> <a href="#" class="link"><STRONG>Pelatihan Kuliner, `Wah..Asyik Banget`</STRONG></a>
@@ -227,7 +218,7 @@
                                                       <div class="col-md-9 col-xs-12">
                                                           <p> Suku Dinas Perindustrian dan Energi (PE) Jakarta Barat menggembleng puluhan ibu-ibu rumah tangga untuk membuat roti.</p> </div>
                                                   </div>
-                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
+                                                  <a href="../../event/view/detail.php" class="read-more">Baca Selengkapya</a>
                                               </div>
                                               <hr>
                                               <div> <a href="#" class="link"><STRONG>GDG Prime 2015 : Conference (Peserta Umum)</STRONG></a>
@@ -236,7 +227,7 @@
                                                       <div class="col-md-9 col-xs-12">
                                                           <p> GDG adalah sebuah event yang bertujuan untuk menghubungkan mahasiswa,developer game, investor, publisher dan media dalam sebuah platform untuk saling . . . </p> </div>
                                                   </div>
-                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
+                                                  <a href="../../event/view/detail.php" class="read-more">Baca Selengkapya</a>
                                               </div>
                                               <hr>
                                               <div> <a href="#" class="link"><STRONG>Intel Innovation Day 2015 - Top Developers, Universities, & Partners</STRONG></a>
@@ -245,7 +236,7 @@
                                                       <div class="col-md-9 col-xs-12">
                                                           <p> Dicoding & Intel akan hadir di Yogyakarta untuk berbagi mengenai penggunaan Intel NDK pada Android Education Apps & Games.</p> </div>
                                                   </div>
-                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
+                                                  <a href="../../event/view/detail.php" class="read-more">Baca Selengkapya</a>
                                               </div>
                                               <hr>
                                               <div> <a href="#" class="link"><STRONG>Bengkel GameLan Desember #3</STRONG></a>
@@ -254,7 +245,7 @@
                                                       <div class="col-md-9 col-xs-12">
                                                           <p> Bengkel GameLan adalah event mingguan dari komunitas game developer Jogja (GameLan). </p> </div>
                                                   </div>
-                                                  <a href="detail.php" class="read-more">Baca Selengkapya</a>
+                                                  <a href="../../event/view/detail.php" class="read-more">Baca Selengkapya</a>
                                               </div>
                                           </div>
                                       </div>
