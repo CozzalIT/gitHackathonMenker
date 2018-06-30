@@ -15,7 +15,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12" style="background:#00000060; padding-top:20px; border-radius:8px;">
 
                   <div class="contact-form mb50 wow fadeIn">
-                      <form action="process.php" id="daftar" method="post">
+                      <form action="modules/login/view/regis-step2.php" id="daftar" method="post">
                         <h3><center>DAFTARKAN DIRI ANDA</center></h3>
                           <div class="form-group" id="name-field">
                               <div class="form-input">
