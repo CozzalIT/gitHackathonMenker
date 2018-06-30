@@ -179,7 +179,7 @@
                                               <div> <a href="#" class="link"><strong>Selamat telah bergabung</strong></a> <span class="sl-date">5 minutes ago</span>
                                                   <div class="m-t-20 row">
                                                       <div class="col-md-9 col-xs-12">
-                                                          <p> Terimaksih atas partisipasi saudara yang telah mendaftarkan diri pada situs jalinrelasi. Selanjutnya silahkan lengkapi data . . . </p> </div>
+                                                          <p> Terimaksih atas partisipasi anda yang telah mendaftarkan diri pada situs jalinrelasi. Selanjutnya silahkan lengkapi data . . . </p> </div>
                                                   </div>
                                                   <a href="info.php" class="read-more">Baca Selengkapya</a>
                                               </div>

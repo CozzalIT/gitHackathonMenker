@@ -3,7 +3,7 @@
     <nav class="navbar">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a href="#home" class="navbar-brand"><img src="assets/img/logo.png" alt="logo"></a>
+                <a href="#home" class="navbar-brand"><img style="height: 50px; width: 200px; padding-bottom: 10px;" src="assets/img/logo.png" alt="logo"></a>
             </div>
             <div id="main-nav" class="stellarnav">
                 <ul id="nav" class="nav">
