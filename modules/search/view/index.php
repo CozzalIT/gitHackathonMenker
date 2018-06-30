@@ -50,16 +50,15 @@
                             <img class="card-img-top" src="../../../assets/img/background/profile-bg.jpg" alt="Card image cap">
                             <div class="card-block little-profile text-center">
                                 <div class="pro-img"><img src="../../../assets/img/users/profile.jpg" alt="user" /></div>
-                                <h3 class="m-b-0">Angela Dominic</h3>
-                                <p>Web Designer &amp; Developer</p>
-                                <a href="javascript:void(0)" class="m-t-10 waves-effect waves-dark btn btn-primary btn-md btn-rounded">Follow</a>
+                                <h3 class="m-b-0">Farhan Hanif Alaudin</h3>
+                                <p>Desain Komunikasi Visual</p>
                                 <div class="row text-center m-t-20 pad-bot-card">
                                     <div class="col-lg-4 col-md-4 m-t-20">
-                                        <h3 class="m-b-0 font-light">1099</h3><small>Articles</small></div>
+                                        <h3 class="m-b-0 font-light">1,587</h3><small>Poin</small></div>
                                     <div class="col-lg-4 col-md-4 m-t-20">
-                                        <h3 class="m-b-0 font-light">23,469</h3><small>Followers</small></div>
+                                        <h3 class="m-b-0 font-light">200</h3><small>Pengunjung</small></div>
                                     <div class="col-lg-4 col-md-4 m-t-20">
-                                        <h3 class="m-b-0 font-light">6035</h3><small>Following</small></div>
+                                        <h3 class="m-b-0 font-light">4</h3><small>Relasi</small></div>
                                 </div>
                             </div>
                         </div>

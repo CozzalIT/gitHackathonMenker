@@ -7,6 +7,7 @@
 <!--<![endif]-->
 <?php
   require('../../../template/head.php');
+  $thisPage = 'Pesan';
 ?>
 
 <body class="home-one" data-spy="scroll" data-target=".mainmenu-area" data-offset="90">
@@ -28,7 +29,6 @@
         <div class="header-top-area">
             <!--MAINMENU AREA-->
             <?php
-              $thisPage = "Beranda";
               require('../../../template/navbar-modules.php');
             ?>
             <!--END MAINMENU AREA END-->
@@ -56,11 +56,6 @@
                                 <div class="message-box contact-box">
                                     <div class="message-widget contact-widget">
                                         <!-- Message -->
-                                        <a href="#">
-                                            <div class="user-img"> <img src="../../../assets/img/users/1.jpg" alt="user" class="img-circle"> <span class="profile-status online pull-right"></span> </div>
-                                            <div class="mail-contnet">
-                                                <h5>Pavan kumar</h5> <span class="mail-desc">Arsitektur</span></div>
-                                        </a>
                                         <!-- Message -->
                                         <a href="#">
                                             <div class="user-img"> <img src="../../../assets/img/users/2.jpg" alt="user" class="img-circle"> <span class="profile-status busy pull-right"></span> </div>
