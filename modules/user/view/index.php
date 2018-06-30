@@ -50,7 +50,7 @@
                         <div class="card card-bg">
                             <div class="card-block bg-info pad-bot-card">
                                 <h4 class="text-white card-title">Poin Terkumpul</h4>
-                                <h6 class="card-subtitle text-white m-b-0 op-5">caption</h6>
+                                <h6 class="card-subtitle text-white m-b-0 op-5"></h6>
                             </div>
                             <div class="card-block">
                                 <div class="message-box contact-box">
@@ -68,7 +68,7 @@
                         <div class="card card-bg">
                             <div class="card-block bg-info pad-bot-card">
                                 <h4 class="text-white card-title">Prestasi dan Pencapaian</h4>
-                                <h6 class="card-subtitle text-white m-b-0 op-5">caption</h6>
+                                <h6 class="card-subtitle text-white m-b-0 op-5"></h6>
                             </div>
                             <div class="card-block">
                                 <div class="message-box contact-box">
@@ -78,7 +78,7 @@
                                         <!-- Message -->
                                         <a href="#">
                                             <div class="mail-contnet">
-                                                <h5>Pavan kumar</h5> <span class="mail-desc">kat@gmail.com</span></div>
+                                                <h5>Animator revolusioner</h5> <span class="mail-desc">Penghargaan dari Gubernur JABAR</span></div>
                                         </a>
                                     </div>
                                 </div>
@@ -128,16 +128,15 @@
                             <img class="card-img-top" src="../../../assets/img/background/profile-bg.jpg" alt="Card image cap" style="width:600px">
                             <div class="card-block little-profile text-center">
                                 <div class="pro-img"><img src="../../../assets/img/users/profile.jpg" alt="user" /></div>
-                                <h3 class="m-b-0">Angela Dominic</h3>
-                                <p>Web Designer &amp; Developer</p>
-                                <a href="javascript:void(0)" class="m-t-10 waves-effect waves-dark btn btn-primary btn-md btn-rounded">Follow</a>
+                                <h3 class="m-b-0">Farhan Hanif Alaudin</h3>
+                                <p>Desain Komunikasi Visual</p>
                                 <div class="row text-center m-t-20 pad-bot-card">
                                     <div class="col-lg-4 col-md-4 m-t-20">
-                                        <h3 class="m-b-0 font-light">1099</h3><small>Articles</small></div>
+                                        <h3 class="m-b-0 font-light">1,587</h3><small>Poin</small></div>
                                     <div class="col-lg-4 col-md-4 m-t-20">
-                                        <h3 class="m-b-0 font-light">23,469</h3><small>Followers</small></div>
+                                        <h3 class="m-b-0 font-light">200</h3><small>Pengunjung</small></div>
                                     <div class="col-lg-4 col-md-4 m-t-20">
-                                        <h3 class="m-b-0 font-light">6035</h3><small>Following</small></div>
+                                        <h3 class="m-b-0 font-light">4</h3><small>Relasi</small></div>
                                 </div>
                             </div>
                         </div>
@@ -145,7 +144,7 @@
                         <div class="card card-bg">
                             <div class="card-block bg-info pad-bot-card">
                                 <h4 class="text-white card-title">Riwayat Pendidikan</h4>
-                                <h6 class="card-subtitle text-white m-b-0 op-5">captions</h6>
+                                <h6 class="card-subtitle text-white m-b-0 op-5"></h6>
                             </div>
                             <div class="card-block">
                                 <div class="message-box contact-box">
@@ -178,7 +177,7 @@
                         <div class="card card-bg">
                             <div class="card-block bg-info pad-bot-card">
                                 <h4 class="text-white card-title">Portofolio</h4>
-                                <h6 class="card-subtitle text-white m-b-0 op-5">captions</h6>
+                                <h6 class="card-subtitle text-white m-b-0 op-5"></h6>
                             </div>
                             <div class="card-block">
                                 <div class="message-box contact-box">
@@ -187,23 +186,14 @@
                                         <!-- Message -->
                                         <a href="#">
                                             <div class="mail-contnet">
-                                                <h5>Website Makan-makan</h5> <span class="mail-desc">http://www.makanyukmakan.com</span></div>
+                                                <h5>Desain Website makanyukmakan</h5> <span class="mail-desc">http://www.makanyukmakan.com</span></div>
                                         </a>
                                         <!-- Message -->
                                         <a href="#">
                                             <div class="mail-contnet">
-                                                <h5>Sonu Nigam</h5> <span class="mail-desc">pamela1987@gmail.com</span></div>
+                                                <h5>Animasi Edukasi SIM</h5> <span class="mail-desc">https://youtube.com/9y7349fer</span></div>
                                         </a>
                                         <!-- Message -->
-                                        <a href="#">
-                                            <div class="mail-contnet">
-                                                <h5>Arijit Sinh</h5> <span class="mail-desc">cruise1298.fiplip@gmail.com</span></div>
-                                        </a>
-                                        <!-- Message -->
-                                        <a href="#">
-                                            <div class="mail-contnet">
-                                                <h5>Pavan kumar</h5> <span class="mail-desc">kat@gmail.com</span></div>
-                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -222,7 +212,7 @@
                                     <div class="message-widget contact-widget">
                                         <!-- Message -->
                                         <a href="#">
-                                            <div class="user-img"> <img src="../../../assets/img/users/2.jpg" alt="user" class="img-circle"> <span class="profile-status online pull-right"></span> </div>
+                                            <div class="user-img"> <span class="round">S</span> <span class="profile-status busy pull-right"></span> </div>
                                             <div class="mail-contnet">
                                                 <h5>Arsitektur</h5> <span class="mail-desc"></span></div>
                                         </a>
@@ -230,7 +220,7 @@
                                         <a href="#">
                                             <div class="user-img"> <span class="round">S</span> <span class="profile-status busy pull-right"></span> </div>
                                             <div class="mail-contnet">
-                                                <h5>Seni Ukir</h5> <span class="mail-desc"></span></div>
+                                                <h5>Musik</h5> <span class="mail-desc"></span></div>
                                         </a>
                                         <!-- Message -->
                                         <a href="#">
